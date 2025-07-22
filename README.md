@@ -1,9 +1,4 @@
 # 🧠 Fund Replicate
-A Python tool for identifying common alpha stocks purchased by fund managers and selecting stocks based on highs, lows, and entry points.
-
----
-
-## 🔍 What is Fund Replicate?
 
 **Fund Replicate** is a Python-based research tool that identifies common stocks purchased by fund managers and highlights good entry prices for retail investors using Pandas.
 
